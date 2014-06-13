@@ -1,1 +1,1 @@
-this is my readme file completeley about nothing
+this is my readme file completely about nothing
